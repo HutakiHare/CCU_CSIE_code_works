@@ -4,9 +4,13 @@ the projects I've done in CCU B.S time
 
 
 1.Dining Car Game
-程式語言: C  \n
+
+程式語言: C
+
 程式網址: https://onlinegdb.com/fC75claF1
+
 製作時間:一個多月
+
 簡介:  遊戲一共分為五部分  //所有輸入都含有錯誤防治機制，讓玩家重複輸入直到為有效輸入
       
       1.開始-顯示初始狀態
