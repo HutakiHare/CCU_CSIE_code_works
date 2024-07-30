@@ -1,7 +1,7 @@
 # CCU_CSIE_code_works
-the projects I've done in CCU B.S time
-author: Hutaki Hare
-school: CCU, Taiwan
+the projects I've done in CCU B.S time  
+author: Hutaki Hare  
+school: CCU, Taiwan  
 
 ## Program_Design_works
 ### FP of PD in 2022 fall, spring
