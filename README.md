@@ -4,10 +4,11 @@ author: Hutaki Hare
 school: CCU, Taiwan
 
 ## Program_Design_works
-### FP of PD
-+ time: 111 fall, spring
+### FP of PD in 2022 fall, spring
 + A small vending car game
-+ 
++ schedule assistant
+
+-- freshman year in CCU
 
 ## Data_Structure_works
 ### HW of DS in 2023 fall
