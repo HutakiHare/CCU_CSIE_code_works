@@ -36,9 +36,11 @@ school: CCU, Taiwan
 
 ### [1. Taiwanese-Sign-Language-Interpretation-Service(Taiwanese Sign Language Generation System)](https://github.com/2025-Open-Source-Project/Taiwanese-Sign-Language-Interpretation-Service.git)
 
--- Senior year in CCU
+-- Junior ~ Senior year in CCU
 
 ### [2.  Real-Time Traffic Violation Detection System - front-end](https://hutakihare.github.io/mybook/php_ui_of_indicator_lights_project.html)
+
+-- sophomore ~ Junior year in CCU
 
 
 
